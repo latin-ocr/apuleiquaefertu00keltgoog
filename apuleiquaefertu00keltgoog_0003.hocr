@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./apuleiquaefertu00keltgoog_0003.png"; bbox 0 0 971 1471; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 139 407 592 460">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 139 407 592 460">
+     <span class='ocr_line' id='line_1_1' title="bbox 139 407 592 460; baseline -0.009 -8"><span class='ocrx_word' id='word_1_1' title='bbox 139 411 199 453; x_wconf 44' lang='lat' dir='ltr'><em>5?st</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 212 423 261 460; x_wconf 43' lang='grc' dir='ltr'><em>πᾳ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 275 408 422 452; x_wconf 36' lang='lat' dir='ltr'><em>staff&amp;</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 434 407 517 454; x_wconf 51' lang='lat' dir='ltr'><em>Q,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 530 410 592 442; x_wconf 58' lang='lat'><em>“⁷7¹-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 265 514 534 747">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 265 514 534 747">
+     <span class='ocr_line' id='line_1_2' title="bbox 265 514 534 747; baseline 0 724"><span class='ocrx_word' id='word_1_6' title='bbox 265 514 534 747; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 241 773 508 797">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 241 773 508 797">
+     <span class='ocr_line' id='line_1_3' title="bbox 241 773 508 797; baseline -0.019 -1"><span class='ocrx_word' id='word_1_7' title='bbox 241 774 327 796; x_wconf 48' lang='lat' dir='ltr'><strong>&amp;matu</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 341 773 416 797; x_wconf 62' lang='lat' dir='ltr'><em>OEullzsst</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 429 773 508 797; x_wconf 61' lang='lat' dir='ltr'><em>321th</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 201 830 549 970">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 201 830 549 970">
+     <span class='ocr_line' id='line_1_4' title="bbox 218 830 549 909; baseline 0 -15"><span class='ocrx_word' id='word_1_10' title='bbox 218 858 339 896; x_wconf 55' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 355 830 416 894; x_wconf 40' lang='lat' dir='ltr'><em>ff]</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 432 892 444 893; x_wconf 21' lang='lat' dir='ltr'>ff</span> <span class='ocrx_word' id='word_1_13' title='bbox 464 892 480 894; x_wconf 16' lang='lat'><em>⁷.</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 496 859 549 909; x_wconf 47' lang='lat'><strong>4</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 201 911 546 970; baseline -0.003 -21"><span class='ocrx_word' id='word_1_15' title='bbox 201 911 546 970; x_wconf 33' lang='lat' dir='ltr'><em>Qfflfflffgmws</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 243 998 465 1039">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 243 998 506 1039">
+     <span class='ocr_line' id='line_1_6' title="bbox 243 998 465 1039; baseline 0.004 -11"><span class='ocrx_word' id='word_1_16' title='bbox 243 998 465 1039; x_wconf 54' lang='lat' dir='ltr'><em>.3.I.Uw-,(5&lt;‘†01</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
